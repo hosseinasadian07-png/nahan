@@ -1,5 +1,6 @@
 # Wrangler Configuration for Nahan (نهان) IoT Telemetry Gateway Node
 # Docs: https://developers.cloudflare.com/workers/wrangler/configuration/
+# Test change ...
 
 name = "salam"
 main = "_worker.js"
