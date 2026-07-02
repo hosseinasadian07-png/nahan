@@ -5,6 +5,7 @@
 name = "salam"
 main = "_worker.js"
 compatibility_date = "2024-03-01"
+workers_dev = true
 
 # Automatically run the local dev server on a predictable port
 [dev]
